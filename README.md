@@ -8,7 +8,7 @@
 
 ***
 
-[урок 5](VladimirVaize.github.io/lesson_5/src/ "...") - Свёрстанный на HTML и CSS сайт книжка.
+[урок 5](VladimirVaize.github.io/lesson_5/ "...") - Свёрстанный на HTML и CSS сайт книжка.
 
 
 [Урок 6.1](VladimirVaize.github.io/lesson_6.1/ "...") и [Урок 6.2](VladimirVaize.github.io/lesson_6.2/ "...") - Позиционирования.
