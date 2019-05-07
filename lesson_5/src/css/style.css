@@ -1,0 +1,35 @@
+html {
+  background-color: #7423;
+}
+h1,h2,h3,h5 {
+  text-align: center;
+}
+h1 {
+  background: lightgrey;
+}
+.part {
+  background: red;
+  display: inline-block;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+.italic {
+  font-style: italic;
+  background: darkorange;
+}
+.underline {
+  text-decoration: underline;
+}
+.bold {
+  font-weight: bold;
+  background: lightblue; 
+}
+.orangered {
+  color: orangered;
+}
+.orange {
+  color: orange;
+}
