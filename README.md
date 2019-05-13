@@ -29,4 +29,7 @@
 [Урок 12](https://github.com/VladimirVaize/VladimirVaize.github.io "...") - Работа с репозиторием на GitHub.
 
 
+[Урок 13](VladimirVaize.github.io/lesson_13/ "...") - Верстка PixelPerfect
+
+
 ***
