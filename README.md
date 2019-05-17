@@ -14,7 +14,7 @@
 [Урок 6.1](VladimirVaize.github.io/lesson_6.1/ "...") и [Урок 6.2](VladimirVaize.github.io/lesson_6.2/ "...") - Позиционирования.
 
 
-[Урок 7](VladimirVaize.github.io/lesson_7/ "...") - Первый свёрстанный найт полностью на HTML и CSS.
+[Урок 7](VladimirVaize.github.io/lesson_7/ "...") - Первый свёрстанный сайт полностью на HTML и CSS.
 
 
 [Урок 8](VladimirVaize.github.io/lesson_8/ "...") - Знакомство с Bootstrap сеткой.
