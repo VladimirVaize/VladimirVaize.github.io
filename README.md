@@ -31,6 +31,9 @@
 
 [Урок 13](VladimirVaize.github.io/lesson_13/ "...") - Верстка PixelPerfect
 
+***
+## Практика
+
 
 [Практика 1](VladimirVaize.github.io/practice_1/ "...") - Шапка сайта
 
