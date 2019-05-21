@@ -23,7 +23,7 @@
 [Урок 9](VladimirVaize.github.io/lesson_9/ "...") - Сайт с использованием bootstrap.
 
 
-[Урок 10](VladimirVaize.github.io/lesson_10/ "...") - Знакомство с Less (Не так уж это и сложно).
+[Урок 10](VladimirVaize.github.io/lesson_10/ "...") - Знакомство с Less (Файл Less)
 
 
 [Урок 12](https://github.com/VladimirVaize/VladimirVaize.github.io "...") - Работа с репозиторием на GitHub.
