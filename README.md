@@ -31,6 +31,9 @@
 
 [Урок 13](VladimirVaize.github.io/lesson_13/ "...") - Верстка PixelPerfect
 
+
+[Урок 14](VladimirVaize.github.io/lesson_14/ "...") - Подключение шрифтов
+
 ***
 ## Практика
 
