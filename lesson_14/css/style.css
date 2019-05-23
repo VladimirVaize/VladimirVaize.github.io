@@ -4,24 +4,24 @@
 /* Bebas */
 @font-face {
   font-family: 'BebasNeueRegular';
-  src: url('BebasNeueRegular.eot');
-  src: url('BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
-       url('BebasNeueRegular.svg#BebasNeueRegular') format('svg'),
-       url('BebasNeueRegular.ttf') format('truetype'),
-       url('BebasNeueRegular.woff') format('woff'),
-       url('BebasNeueRegular.woff2') format('woff2');
+  src: url('../fonts/BebasNeueRegular/BebasNeueRegular.eot');
+  src: url('../fonts/BebasNeueRegular/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/BebasNeueRegular/BebasNeueRegular.svg#BebasNeueRegular') format('svg'),
+       url('../fonts/BebasNeueRegular/BebasNeueRegular.ttf') format('truetype'),
+       url('../fonts/BebasNeueRegular/BebasNeueRegular.woff') format('woff'),
+       url('../fonts/BebasNeueRegular/BebasNeueRegular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 /* Lato */
 @font-face {
   font-family: 'Lato-Regular';
-  src: url('Lato-Regular.eot');
-  src: url('Lato-Regular.eot?#iefix') format('embedded-opentype'),
-       url('Lato-Regular.svg#Lato-Regular') format('svg'),
-       url('Lato-Regular.ttf') format('truetype'),
-       url('Lato-Regular.woff') format('woff'),
-       url('Lato-Regular.woff2') format('woff2');
+  src: url('../fonts/Lato-Regular/Lato-Regular.eot');
+  src: url('../fonts/Lato-Regular/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Lato-Regular/Lato-Regular.svg#Lato-Regular') format('svg'),
+       url('../fonts/Lato-Regular/Lato-Regular.ttf') format('truetype'),
+       url('../fonts/Lato-Regular/Lato-Regular.woff') format('woff'),
+       url('../fonts/Lato-Regular/Lato-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
