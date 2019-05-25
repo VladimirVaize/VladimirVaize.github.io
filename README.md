@@ -41,4 +41,7 @@
 [Практика 1](VladimirVaize.github.io/practice_1/ "...") - Шапка сайта
 
 
+[Практика 2](https://vladimirvaize.github.io/practice_2/ "...") - Верстка первого экрана
+
+
 ***
