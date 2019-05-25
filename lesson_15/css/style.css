@@ -1,0 +1,103 @@
+body {
+	margin: 0;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+
+h2 {
+	font-weight: 100;
+}
+
+.container {
+	max-width: 900px;
+	margin: auto;
+	padding: 15px;
+}
+.image {
+	display: inline-block;
+	vertical-align: top;
+	width: 200px;
+	height: 200px;
+
+	position: relative;
+}
+.image::before {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: none;
+
+	transition: all 0.5s;
+}
+.image:hover::before {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.image-one {
+	background: url(../img/1.jpg) center no-repeat;
+	background-size: cover;
+}
+.image-two {
+	background: url(../img/2.jpg) center no-repeat;
+	background-size: cover;
+}
+.image-two::before {
+	content: '';
+}
+.image-two:hover::before {
+	content: 'Привет';
+	text-align: center;
+}
+.image-three {
+	background: url(../img/3.jpg) center no-repeat;
+	background-size: cover;
+}
+.image-four {
+	background: url(../img/4.jpg) center no-repeat;
+	background-size: cover;
+}
+
+.button-one {
+	border: none;
+	font-weight: 700;
+	font-size: 14px;
+ color: white;
+ padding: .8em 1em calc(.8em + 3px);
+ border-radius: 3px;
+ background: rgb(64,199,129);
+ box-shadow: 0 -3px rgb(53,167,110) inset;
+ transition: all 0.5s;
+}
+.button-one:hover {
+	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+	background-color: goldenrod;
+	border: 1px solid yellow;
+	border-radius: 20%;
+}
+.button-two {
+	display: inline-block;
+ color: white;
+ padding: .5em 2em;
+ border: none;
+ border-width: 2px 0;
+ border-style: solid none;
+ border-color: #FDBE33 #000 #D77206;
+ border-radius: 6px;
+ background: linear-gradient(#F3AE0F, #E38916) #E38916;
+ transition: 0.2s;
+}
+/* Я извеняюсь НО моя фантазия на сегодня исчерпала все свои запасы инегрии!!! */
+.button-two::after {
+	content: '';
+}
+.button-two:hover::after {
+	content: 'aaaaааааaaa Помагите aaааааaaa'; 
+}
+.button-two:hover {
+	padding: 1rem;
+	margin-left: 100px;
+	box-shadow: 10px 10px 5px grey;
+}
+/* Просто не обращая на это внимания */
