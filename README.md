@@ -34,6 +34,9 @@
 
 [Урок 14](VladimirVaize.github.io/lesson_14/ "...") - Подключение шрифтов
 
+
+[Урок 15](https://vladimirvaize.github.io/lesson_15/ "...") - Псевдоклассы и псевдоэлементы
+
 ***
 ## Практика
 
