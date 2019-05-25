@@ -35,7 +35,7 @@
 [Урок 14](VladimirVaize.github.io/lesson_14/ "...") - Подключение шрифтов
 
 
-[Урок 15](https://vladimirvaize.github.io/lesson_15/ "...") - Эфекты при наведении
+[Урок 15](https://vladimirvaize.github.io/lesson_15/ "...") - Эффекты при наведении
 
 ***
 ## Практика
