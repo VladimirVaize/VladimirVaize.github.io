@@ -37,6 +37,9 @@
 
 [Урок 15](https://vladimirvaize.github.io/lesson_15/ "...") - Эффекты при наведении
 
+
+[Урок 16](https://vladimirvaize.github.io/lesson_16/index.html "...") - Слайдер
+
 ***
 ## Практика
 
