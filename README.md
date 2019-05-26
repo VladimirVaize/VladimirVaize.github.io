@@ -23,34 +23,37 @@
 [Урок 9](https://VladimirVaize.github.io/lesson_9/ "...") - Сайт с использованием bootstrap.
 
 
-[Урок 10](https://VladimirVaize.github.io/lesson_10/ "...") - Знакомство с Less (Файл Less)
+[Урок 10](https://VladimirVaize.github.io/lesson_10/ "...") - Знакомство с Less (Файл Less).
 
 
 [Урок 12](https://github.com/VladimirVaize/VladimirVaize.github.io "...") - Работа с репозиторием на GitHub.
 
 
-[Урок 13](https://VladimirVaize.github.io/lesson_13/ "...") - Верстка PixelPerfect
+[Урок 13](https://VladimirVaize.github.io/lesson_13/ "...") - Верстка PixelPerfect.
 
 
-[Урок 14](https://VladimirVaize.github.io/lesson_14/ "...") - Подключение шрифтов
+[Урок 14](https://VladimirVaize.github.io/lesson_14/ "...") - Подключение шрифтов.
 
 
-[Урок 15](https://vladimirvaize.github.io/lesson_15/ "...") - Эффекты при наведении
+[Урок 15](https://vladimirvaize.github.io/lesson_15/ "...") - Эффекты при наведении.
 
 
-[Урок 16](https://vladimirvaize.github.io/lesson_16/index.html "...") - Слайдер
+[Урок 16](https://vladimirvaize.github.io/lesson_16/index.html "...") - Слайдер.
 
 ***
 ## Практика
 
 
-[Практика 1](https://VladimirVaize.github.io/practice_1/ "...") - Шапка сайта
+[Практика 1](https://VladimirVaize.github.io/practice_1/ "...") - Шапка сайта.
 
 
-[Практика 2](https://vladimirvaize.github.io/practice_2/ "...") - Верстка первого экрана
+[Практика 2](https://vladimirvaize.github.io/practice_2/ "...") - Верстка первого экрана.
 
 
-[Практика 3](https://vladimirvaize.github.io/practice_3/ "...") - Эффекты при наведении и адаптив первого экрана
+[Практика 3](https://vladimirvaize.github.io/practice_3/ "...") - Эффекты при наведении и адаптив первого экрана.
+
+
+[Практика 4](https://vladimirvaize.github.io/practice_4/ "...") - Верстка блока с преимуществами.
 
 
 ***
