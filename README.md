@@ -40,6 +40,9 @@
 
 [Урок 16](https://vladimirvaize.github.io/lesson_16/index.html "...") - Слайдер.
 
+
+[Урок 17](https://vladimirvaize.github.io/lesson_17/ "...") - Всплывающие окна.
+
 ***
 ## Практика
 
