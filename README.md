@@ -46,6 +46,9 @@
 
 [Урок 18.1](https://vladimirvaize.github.io/lesson_18.1/ "...") - Форма регистрации с помощью табовю
 
+
+[Урок 18.2](https://vladimirvaize.github.io/lesson_18.2/ "...") - Аккордеон.
+
 ***
 ## Практика
 
