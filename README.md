@@ -68,4 +68,7 @@
 [Практика 5](https://vladimirvaize.github.io/practice_5/ "...") - Верстка всплывающих окон.
 
 
+[Практика 6](https://vladimirvaize.github.io/practice_6/ "...") - Верстка блока с ценами.
+
+
 ***
