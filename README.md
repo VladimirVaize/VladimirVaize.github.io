@@ -44,7 +44,7 @@
 [Урок 17](https://vladimirvaize.github.io/lesson_17/ "...") - Всплывающие окна.
 
 
-[Урок 18.1](https://vladimirvaize.github.io/lesson_18.1/ "...") - Форма регистрации с помощью табовю
+[Урок 18.1](https://vladimirvaize.github.io/lesson_18.1/ "...") - Форма регистрации с помощью табов.
 
 
 [Урок 18.2](https://vladimirvaize.github.io/lesson_18.2/ "...") - Аккордеон.
