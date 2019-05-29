@@ -43,6 +43,9 @@
 
 [Урок 17](https://vladimirvaize.github.io/lesson_17/ "...") - Всплывающие окна.
 
+
+[Урок 18.1](https://vladimirvaize.github.io/lesson_18.1/ "...") - Форма регистрации с помощью табовю
+
 ***
 ## Практика
 
