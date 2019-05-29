@@ -1,0 +1,47 @@
+body {
+  background: url(../img/bg.png) center center no-repeat;
+}
+.container {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+.panel {
+  border: none;
+}
+.panel-group {
+  width: 86rem;
+  margin: 0 auto;
+  font-size: 2rem;
+}
+.panel-heading {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+.panel-title a {
+  color: #fff;
+  font-size: 2rem;
+}
+.panel-collapse {
+  width: 85rem;
+  margin: 0 auto;
+  border: 3px solid #dcdcdc;
+  border-top: none;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.panel-default > .panel-heading {
+  background-color: #0bbaf0;
+}
+.main {
+  color: #0bbaf0;
+  font-family: 'Ubuntu', sans-serif;
+  text-transform: uppercase;
+}
+.main h1 {
+  font-weight: 900;
+  font-size: 3.6rem;
+}
+.main p {
+  font-size: 2.4rem;
+  margin-bottom: 5rem;
+}
