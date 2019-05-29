@@ -1,0 +1,95 @@
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg'),
+       url('../fonts/MyriadPro-Regular.ttf') format('truetype'),
+       url('../fonts/MyriadPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+/* Color */
+@light: #fff;
+@form-border: #03a3d8;
+@bg-form: #000000;
+@red: red;
+
+
+body {
+	background: url(../img/bg.jpg) center center no-repeat;
+	background-size: cover;
+	font-family: 'MyriadPro-Regular';
+} 
+
+
+.form {
+	display: inline-block;
+	width: 63rem;
+	margin-top: 10rem;
+	ul {
+		border: none;
+		.active, .active:hover, .active:focus /* Я не понимаю почему 
+											он меняет цвет только после
+											второго нажатия в любое место */ 
+		{
+			a {
+				background-color: @form-border;
+				color: @light;
+				cursor: pointer;
+			}
+		}
+		li {
+
+			background-color: #fff;
+			border-radius: 7% 7% 0 0;
+			margin-left: 2rem;
+			a {
+				border: none;
+				font-size: 2.4rem;
+				color: black;
+				padding: 0.2rem 1rem;
+			}
+		}
+	}
+	&-content {
+		background-color: @form-border;
+		padding: 2.5rem;
+		border-radius: 5px;
+	}
+}
+.tab {
+	&-content {
+		background-color: @bg-form;
+		padding: 4.5rem;
+		border-radius: 5px;
+	}
+	&-pane {
+		.form-control {
+			background: url(../img/bg-form.png);
+			display: block;
+			margin-bottom: 2.5rem;
+			padding: 2.5rem;
+			color: @light;
+			font-size: 2.4rem;
+		}
+		p {
+			color: @red;
+			margin-bottom: 5.5rem;
+		}
+	}
+}
+label {
+	margin-left: 1rem;
+}
+.btn-in {
+	display: inline-block;
+	border: none;
+	background: url(../img/btn-ex.png);
+	width: 12.7rem;
+	height: 5rem;
+	font-size: 2.4rem;
+	color: @light;
+	margin-left: 44.2rem;
+	margin-top: -5rem;
+}
