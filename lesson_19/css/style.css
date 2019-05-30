@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('../fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg'), url('../fonts/MyriadPro-Regular.ttf') format('truetype'), url('../fonts/MyriadPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Color */
+body {
+  background: url(../img/bg.jpg) center center no-repeat;
+  background-size: cover;
+  font-family: 'MyriadPro-Regular';
+}
+.form {
+  display: inline-block;
+  width: 63rem;
+  margin-top: 10rem;
+}
+.form ul {
+  border: none;
+}
+.form ul .active a,
+.form ul .active:hover a,
+.form ul .active:focus a {
+  background-color: #03a3d8;
+  color: #ffffff;
+  cursor: pointer;
+}
+.form ul li {
+  background-color: #fff;
+  border-radius: 7% 7% 0 0;
+  margin-left: 2rem;
+}
+.form ul li a {
+  border: none;
+  font-size: 2.4rem;
+  color: black;
+  padding: 0.2rem 1rem;
+}
+.form-content {
+  background-color: #03a3d8;
+  padding: 2.5rem;
+  border-radius: 5px;
+}
+.tab-content {
+  background-color: #000000;
+  padding: 4.5rem;
+  border-radius: 5px;
+}
+.tab-pane .form-control {
+  background: url(../img/bg-form.png);
+  display: block;
+  margin-bottom: 2.5rem;
+  padding: 2.5rem;
+  color: #ffffff;
+  font-size: 2.4rem;
+}
+.tab-pane p {
+  color: #ff0000;
+  margin-bottom: 5.5rem;
+}
+label {
+  margin-left: 1rem;
+}
+.btn-in {
+  display: inline-block;
+  border: none;
+  background: url(../img/btn-ex.png);
+  width: 12.7rem;
+  height: 5rem;
+  font-size: 2.4rem;
+  color: #ffffff;
+  margin-left: 44.2rem;
+  margin-top: -5rem;
+}
