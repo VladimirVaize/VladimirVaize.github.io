@@ -49,6 +49,9 @@
 
 [Урок 18.2](https://vladimirvaize.github.io/lesson_18.2/ "...") - Аккордеон.
 
+
+[Урок 19](VladimirVaize.github.io/lesson_19/ "...") - Анимация на CSS3.
+
 ***
 ## Практика
 
