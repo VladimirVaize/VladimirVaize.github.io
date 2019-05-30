@@ -74,4 +74,7 @@
 [Практика 6](https://vladimirvaize.github.io/practice_6/ "...") - Верстка блока с ценами.
 
 
+[Практика 7](https://vladimirvaize.github.io/practice_7/index.html "...") - Верстка блока с отзывами.
+
+
 ***
