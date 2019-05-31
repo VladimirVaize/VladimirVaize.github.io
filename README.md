@@ -77,4 +77,7 @@
 [Практика 7](https://vladimirvaize.github.io/practice_7/index.html "...") - Верстка блока с отзывами.
 
 
+[Практика 8](https://vladimirvaize.github.io/practice_8/ "...") - Доверстали блок с отзывами.
+
+
 ***
