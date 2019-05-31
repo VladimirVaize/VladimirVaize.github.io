@@ -86,4 +86,7 @@
 [Практика 8](https://vladimirvaize.github.io/practice_8/ "...") - Доверстали блок с отзывами.
 
 
+[Практика 9](https://vladimirvaize.github.io/practice_9/ "...") - Верстаем схему работы и все включено.
+
+
 ***
