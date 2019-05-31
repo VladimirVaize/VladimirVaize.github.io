@@ -92,4 +92,7 @@
 [Практика 9](https://vladimirvaize.github.io/practice_9/ "...") - Верстаем схему работы и все включено.
 
 
+[практика 10](https://vladimirvaize.github.io/practice_10/ "...") - Верстаем блок "Развеиваем сомнения".
+
+
 ***
