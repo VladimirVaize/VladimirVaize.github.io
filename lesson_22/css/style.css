@@ -1,0 +1,44 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+.info {
+	position: absolute;
+	width: 38rem;
+	padding: 7rem;
+	background: red;
+	text-align: center;
+
+	top: -51rem;
+}
+.info h2,p,a {
+	margin-bottom: 4rem;
+	color: #fff;
+	font-size: 1.8rem;
+}
+.info h2 {
+	font-size: 3rem;
+}
+.futter {
+	padding-top: 2rem;
+}
+.futter img {
+	width: 6rem;
+}
+.futter p{
+	color: black;
+	margin: 0;
+	font-size: 1.1em;
+}
+.futter-block-2 p {
+	text-align: center;
+	color: gray;
+	margin-top: 1.5rem;
+}
+.futter-block-3 h3 {
+	font-weight: 600;
+	font-size: 2.2rem;
+	margin-top: 0;
+}
+.futter-block-3 p {
+	font-size: 1.4rem;
+}
