@@ -52,6 +52,9 @@
 
 [Урок 19](VladimirVaize.github.io/lesson_19/ "...") - Анимация на CSS3.
 
+
+[Урок 20](https://vladimirvaize.github.io/lesson_21/ "...") - Parallax эффект для сайта.
+
 ***
 ## Практика
 
